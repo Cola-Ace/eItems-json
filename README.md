@@ -1,2 +1,2 @@
 # eItems-json
-一个普通的实验项目
+> 国内下载地址：<https://cdn.jsdelivr.net/gh/Cola-Ace/eItems-json@main/eItems.json>
